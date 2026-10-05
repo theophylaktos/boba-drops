@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	font-family: Arial;
+	background-image: radial-gradient(rgb(0, 149, 255), rgb(234, 248, 255));
+}
+
+img {
+	border-radius: 50%;
+	border: 20px solid cyan;
+}
